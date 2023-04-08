@@ -7,7 +7,7 @@
 
   routePanoramas = {
     Home: { 
-      panorama: new PANOLENS.ImagePanorama( assetPath + '/view.jpg' ), 
+      panorama: new PANOLENS.ImagePanorama( assetPath + '/pan.jpg' ), 
       initialLookPosition: new THREE.Vector3( -5000.00, 167.06, 3449.90 )
     },
     Documentation: { 

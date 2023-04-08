@@ -1,4 +1,4 @@
-(function(){
+function(){
 
   var viewer, container, title, docSection, exampleSection, supportSection, routePanoramas, assetPath, items, selection, cards, menuIcon, nav, progressElement, progress;
 
